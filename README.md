@@ -12,6 +12,6 @@ The 3 lexical proportions studied in this code are :
 
 1) The proportion of stopwords
 2) The proportion of words longer than the mean length
-3) The proportion of words with even length
+3) The proportion of words with an even length
 
 Link to the article will come in the future.

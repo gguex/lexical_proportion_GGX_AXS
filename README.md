@@ -8,7 +8,7 @@ to compute lexical proportions for different properties. It will need a file
 containing french stopwords (we use here the file provided by Jacques Savoy
 http://members.unine.ch/jacques.savoy/clef/frenchST.txt).
 
-The 3 studied lexical proportions studied in this code are :
+The 3 lexical proportions studied in this code are :
 
 1) The proportion of stopwords
 2) The proportion of words longer than the mean length

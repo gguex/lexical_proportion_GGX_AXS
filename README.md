@@ -1,6 +1,6 @@
 # Source code for the article "Vers une estimation robuste des proportions lexicales" (2020)
 
-The script file "text_lexical_proportions_analysis.py" contain the main code use in the article "Vers une estimation robuste des proportions lexicales" (submitted to JADT 2020).
+The script file "text_lexical_proportions_analysis.py" contains the main code use in the article "Vers une estimation robuste des proportions lexicales" (submitted to JADT 2020).
 
 This code will analyse a text file (by default, the Jule Vernes novel
 "De la Terre à la Lune" found on http://www.gutenberg.org/files/799/799-0.txt)
